@@ -1,8 +1,12 @@
-# EnemyModify 1.6.0
+﻿# EnemyModify 1.6.1
 
 [한국어](README_ko.md) · [English](README_en.md) · [日本語](README_jp.md) · [中文](README_zh.md)
 
 用于设置塞菲莉亚怪物禁用、随机化及精英敌人词缀的模组。在游戏的［EM 设置］中调整。无需安装QoL或DungreedEnemies也可使用。
+
+## 1.6.1 — 2026-09-15
+
+- 发布版本的更新记录可在 `patchlog` 文件中查看。
 
 ## 主要功能
 

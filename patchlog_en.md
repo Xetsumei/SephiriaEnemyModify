@@ -1,4 +1,8 @@
-# EnemyModify — Update history
+﻿# EnemyModify — Update history
+
+## 1.6.1 — 2026-09-15
+
+- Release update history is available in the `patchlog` files.
 
 ## 1.6.0 — 2026-09-15
 
