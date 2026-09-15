@@ -1,7 +1,7 @@
 {
-    "version":  "1.6.2",
-    "zip":  "https://github.com/Xetsumei/SephiriaEnemyModify/releases/download/1.6.2/EnemyModify.zip",
-    "sha256":  "a596844bbd18baff5f2ec929c881a7a4dae7bf732303900c42c58b97de6e0a12",
+    "version":  "1.6.3",
+    "zip":  "https://github.com/Xetsumei/SephiriaEnemyModify/releases/download/1.6.3/EnemyModify.zip",
+    "sha256":  "03c0594304591b1082156872c6aa84c9d02313243cf026a0077dd5cbe8f08810",
     "dllEntry":  "EnemyModify.dll",
     "libsVersion":  1,
     "notes":  ""
