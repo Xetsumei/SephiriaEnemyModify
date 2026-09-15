@@ -28,7 +28,7 @@ Extract the ZIP into `Sephiria/AddOns/EnemyModify`. Keep `metadata.json`, the DL
 
 When you enter the game, the mod checks for a new version. In the lobby, choose Update now, Remind me later, or Skip this update. Update now downloads the release and restarts the game. Automatic prompts and restarts are postponed during a run.
 
-Use `/em update` to check manually, `/em update off` to turn off automatic checks, and `/em update on` to turn them back on. A manual check also shows a version you skipped.
+Use `/em update` to check manually. Turn off [Automatic updates] in the [General] tab of EM Options to stop the startup check and update prompt; you can then check only with `/em update`. `/em update off` and `/em update on` change the same setting. A manual check also shows a version you skipped.
 
 Downloads are verified before installation. Your settings carry over. If a release changes Libs, download the ZIP and install it with the game closed.
 
