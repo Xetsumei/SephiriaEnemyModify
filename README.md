@@ -1,5 +1,8 @@
 ﻿# EnemyModify 1.6.1
 
+- README와 업데이트 기록은 GitHub 저장소에서 확인할 수 있습니다. Release ZIP에는 포함하지 않습니다.
+
+
 [한국어](README_ko.md) · [English](README_en.md) · [日本語](README_jp.md) · [中文](README_zh.md)
 
 세피리아의 몬스터 밴 · 랜더마이저 · 엘리트 몬스터를 설정하는 모드입니다. 게임의 [EM 옵션]에서 바꿀 수 있습니다. QoL이나 DungreedEnemies 없이도 사용할 수 있습니다.

@@ -1,5 +1,8 @@
 ﻿# EnemyModify 1.6.1
 
+- READMEと更新履歴はGitHubリポジトリで確認できます。ReleaseのZIPには含まれません。
+
+
 [한국어](README_ko.md) · [English](README_en.md) · [日本語](README_jp.md) · [中文](README_zh.md)
 
 セフィリアのモンスター禁止・ランダマイザー・エリートモンスターを設定するモッドです。ゲーム内の［EM 設定］から変更できます。QoLやDungreedEnemiesがなくても使えます。

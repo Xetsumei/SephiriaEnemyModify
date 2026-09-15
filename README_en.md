@@ -1,5 +1,8 @@
 ﻿# EnemyModify 1.6.1
 
+- README and patch notes are available in the GitHub repository and are not included in release ZIPs.
+
+
 [한국어](README_ko.md) · [English](README_en.md) · [日本語](README_jp.md) · [中文](README_zh.md)
 
 A Sephiria mod for monster bans, randomizers, and elite enemy modifiers. Open EM Options in the game to configure it. QoL and DungreedEnemies are optional.
