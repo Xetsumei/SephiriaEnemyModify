@@ -32,3 +32,5 @@ Downloads are verified before installation. Your settings carry over. If a relea
 Older versions without this feature need one manual ZIP installation first.
 
 [Update history](patchlog_en.md)
+
+After entering the game, once your character and chat display are ready, a single `[EnemyModify] Up to date.` notice or a new-update notice appears. Update prompts wait for other mods’ prompts to close. Disabled checks and skipped versions do not show an automatic update prompt.
