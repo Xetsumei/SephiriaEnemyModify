@@ -1,0 +1,23 @@
+# Distribution files only. Source and internal notes stay local.
+*
+!/.gitignore
+!/CHANGELOG_en.md
+!/CHANGELOG_jp.md
+!/CHANGELOG_ko.md
+!/CHANGELOG_zh.md
+!/EnemyModify.dll
+!/Libs/
+!/Libs/0Harmony.dll
+!/Libs/THIRD_PARTY_NOTICES.md
+!/metadata.json
+!/patchlog.md
+!/patchlog_en.md
+!/patchlog_jp.md
+!/patchlog_ko.md
+!/patchlog_zh.md
+!/README.md
+!/README_en.md
+!/README_jp.md
+!/README_ko.md
+!/README_zh.md
+!/update.json
