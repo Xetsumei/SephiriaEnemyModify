@@ -1,6 +1,6 @@
 ﻿{
   "modName": "EnemyModify",
-  "modVersion": "1.6.5",
+  "modVersion": "1.6.6",
   "modAuthor": "Xetsumei",
   "dllFile": "EnemyModify.dll",
   "entryClass": "EnemyModify.EMMod"

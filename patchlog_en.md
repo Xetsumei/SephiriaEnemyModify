@@ -1,5 +1,10 @@
 ﻿# EnemyModify — Update history
 
+## 1.6.6 — 2026-09-16
+
+- Updated the distribution files.
+
+
 ## 1.6.5 — 2026-09-16
 
 - Added an [Automatic updates] checkbox to the [General] tab of EM Options. When it is off, the mod does not check for a new version or open the update prompt at startup; use `/em update` to check.
