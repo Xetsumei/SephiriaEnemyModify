@@ -1,9 +1,13 @@
-﻿# EnemyModify — Update history
+# EnemyModify — Update history
+
+## 1.6.7 — 2026-09-17
+
+- Updated the README and patch notes to match current features, including the boss/miniboss stun and freeze immunity option, automatic update settings, and manual installation instructions.
+- This release does not change gameplay behavior.
 
 ## 1.6.6 — 2026-09-16
 
 - Updated the distribution files.
-
 
 ## 1.6.5 — 2026-09-16
 
@@ -15,11 +19,9 @@
 
 - Updated the distribution files.
 
-
 ## 1.6.3 — 2026-09-16
 
 - Updated the distribution files.
-
 
 ## 1.6.2 — 2026-09-16
 
